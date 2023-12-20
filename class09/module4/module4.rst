@@ -9,3 +9,4 @@ Section 4 - Ansible Tower F5 Exercises
    4.1-tower-job-template/4.1-tower-job-template
    4.2-tower-workflow/4.2-tower-workflow
    4.3-tower-workflow2/4.3-tower-workflow2
+   4.4-new tower-workflow2/4.4-new-tower-workflow2
