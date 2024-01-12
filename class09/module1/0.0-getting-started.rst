@@ -60,4 +60,4 @@ In **VS Code Explorer** in an empty space ``right-click`` and select **New File*
    Note: Make sure you right-click in the 'empty' grey area. When you right-click at the height of the folder section and create a new file, that file will end up in that selected folder.
 
 
-You finished the **Getting Started** section. `Click here to return to the labguide <..>`__
+You finished the **Getting Started** section.
