@@ -106,5 +106,4 @@ here: :download:`delete.yml <./delete.yml>`.
 
 Login to the web UI and make sure the ``Partition`` ``WorkshopExample`` is removed.
 
-– You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+– You have finished this exercise. 

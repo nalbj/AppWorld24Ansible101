@@ -337,5 +337,4 @@ file, and type it in like so: https://X.X.X.X:8443/
 
 --------------
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 

@@ -130,7 +130,6 @@ file, and type it in like so: https://X.X.X.X:8443/
    In your environment, go to the f5 component and use the
    ``HTTP Virtual Server Test`` access method to test.
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 
 
 .. |serviceMain-offline.png| image:: serviceMain-offline.png

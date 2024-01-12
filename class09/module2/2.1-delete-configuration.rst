@@ -179,5 +179,4 @@ deleted.
 
 All configured objetcs are removed and the BIG-IP is 'empty'.
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 

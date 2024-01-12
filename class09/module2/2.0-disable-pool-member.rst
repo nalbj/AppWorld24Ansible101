@@ -250,5 +250,4 @@ indicating the specified node was forced offline.
    :alt: f5bigip-gui
 
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 
