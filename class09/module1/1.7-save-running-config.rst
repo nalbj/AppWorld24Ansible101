@@ -29,7 +29,7 @@ Ansible playbooks are **YAML** files. YAML is a structured encoding
 format that is also extremely human readable (unlike it’s subset - the
 JSON format).
 
-Enter the following play definition into ``bigip-virtual-server.yml``:
+Enter the following play definition into ``bigip-config.yml``:
 
 .. code-block:: yaml
 
