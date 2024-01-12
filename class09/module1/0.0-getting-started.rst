@@ -26,9 +26,9 @@ Your local browser will start up VS Code.
 Step 3
 ------
 
-If you want to you can select a theme or keep the default by clicking **Mark Done** and select **Yes, I trust...**.
+Check the box to Trust the authors and click the button **Yes, I trust...**.
 
-Ignore the pop-up windows in the bottom-right of your browser by **closing** them.
+**Ignore** the pop-up error windows in the bottom-right of your browser by **closing** them.
 
 Step 4
 ------
@@ -46,8 +46,12 @@ You can use the **terminal Pane** to launch **Ansible playbooks** and execute **
 
 Step 5
 ------
+Note:  There are copies of the lab scripts located under the folder "networking-workshop" in the explorer pane on the left that can be used for error checking and copy/paste needs.
+
+**Note 2:  When you navigate to the folders and click files the Terminal may switch back to Ouput and errors may pop up on bottom right.  Just click back to Terminal tab and close the error pop ups.**
+
 In order to be able to deploy those Ansible playbooks, you need to create YAML scripts which will become your ansible-playbooks.
-In **VS Code Explorer** and ``right-click`` and select **New File**. |new_file|
+In **VS Code Explorer** in an empty space ``right-click`` and select **New File**. |new_file|
 
 .. |new_file| image:: new_file.png
 
