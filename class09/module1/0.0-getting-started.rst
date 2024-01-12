@@ -51,7 +51,7 @@ Note:  There are copies of the lab scripts located under the folder "networking-
 **Note 2:  When you navigate to the folders and click files the Terminal may switch back to Ouput and errors may pop up on bottom right.  Just click back to Terminal tab and close the error pop ups.**
 
 In order to be able to deploy those Ansible playbooks, you need to create YAML scripts which will become your ansible-playbooks.
-In **VS Code Explorer** in an empty space ``right-click`` and select **New File**. |new_file|
+In **VS Code Explorer** in an empty space ``right-click`` and select **New File**. You do not need to actually create a file at this time so you can just click away to close. Or you can name it testing123.yml if you wish. |new_file|
 
 .. |new_file| image:: new_file.png
 
