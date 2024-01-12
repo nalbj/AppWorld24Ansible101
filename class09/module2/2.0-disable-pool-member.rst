@@ -75,7 +75,7 @@ Next, add a task to Retrieve Facts from BIG-IP for the subset ``ltm-pools``
 .. code-block:: yaml
 
    - name: Query BIG-IP facts
-    bigip_device_info:
+     bigip_device_info:
       provider: "{{provider}}"
       gather_subset:
         - ltm-pools
@@ -87,7 +87,7 @@ going forward.
 Step 5
 ------
 
-Deploy ``ansible-playbook disable-pool-members.yml -vvvv`` and watch the outcome.
+Deploy ``ansible-playbook disable-pool-member.yml -vvvv`` and watch the outcome.
 
 The ``-vvvv`` creates extra verbose and makes that you sew more output when the ansible playbook gets deployed
 
