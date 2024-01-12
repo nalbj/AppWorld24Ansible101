@@ -17,6 +17,10 @@ Guide
 Step 1:
 -------
 
+Login to the F5 with your web browser to see what was configured before you push changes to the device.  
+To access the BIG-IP go to the lab dashboard and on the BIG-IP select Access, TMUI and login with 
+the admin user credentials noted in the lab guide.
+
 Use VS Code Explorer to create a new file called ``bigip-node.yml``.
 
 ..
@@ -145,9 +149,7 @@ here: :download:`bigip-node.yml <./bigip-node.yml>`.
 Verifying the Solution
 ======================
 
-Login to the F5 with your web browser to see what was configured. Grab
-the IP information for the F5 load balancer from the lab_inventory/hosts
-file, and type it in like so: https://X.X.X.X:8443/
+Login to the F5 with your web browser to see what was configured. 
 
 Login information for the BIG-IP: - username: admin - password:
 **provided by instructor, defaults to f5ansible**
@@ -155,7 +157,6 @@ Login information for the BIG-IP: - username: admin - password:
 The list of nodes can be found by navigating the menu on the left. Click
 on Local Traffic-> then click on Nodes. |f5web|
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 
 
 .. |f5web| image:: nodes.png
