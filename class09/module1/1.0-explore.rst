@@ -154,5 +154,4 @@ Go back to the home directory
 
    [centos@ansible networking-workshop]$ cd ~
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 
