@@ -224,7 +224,6 @@ To view the Virtual Server click on Local Traffic-> Virtual Servers,
 click on the Virtual Server then click on the ‘resoruces’ tab and view
 the iRules attached to the Virtual Server |irules|
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 
 
 .. |irules| image:: bigip-irule.png

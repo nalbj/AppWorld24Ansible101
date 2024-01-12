@@ -290,7 +290,6 @@ Traffic-> then click on Pools. Click on http_pool to get more granular
 information. Click on the Members tab in the middle to list all the
 Members. |f5members|
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 
 
 .. |f5members| image:: poolmembers.png

@@ -208,8 +208,7 @@ respective workbench. (e.g. student5 would ``| grep student5``)
    [centos@ansible ~]$ curl https://10.1.20.100:443 --insecure --silent
        <p>F5 Agility 2022 - HOST1</p>
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 
 
 .. |f5 vip image| image:: f5vip.png
 .. |apptest| image:: apptest.png

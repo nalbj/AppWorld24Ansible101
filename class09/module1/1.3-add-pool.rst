@@ -148,7 +148,6 @@ Login information for the BIG-IP: - username: admin - password:
 The load balancer pool can be found by navigating the menu on the left.
 Click on Local Traffic-> then click on Pools. |f5pool|
 
-You have finished this exercise. `Click here to return to the lab
-guide <..>`__
+You have finished this exercise. 
 
 .. |f5pool| image:: pool.png
