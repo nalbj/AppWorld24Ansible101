@@ -79,7 +79,8 @@ Save and Exit out of editor.
 Step 4
 ------
 
-Next, add the ``task``. This task will use the ``bigip-irule`` to add irules to the BIG-IP.
+Next, add the ``vars`` and ``tasks`` stanzas. This task will use the ``bigip-irule`` to add irules to the BIG-IP.
+
 
 .. code-block:: yaml
 
