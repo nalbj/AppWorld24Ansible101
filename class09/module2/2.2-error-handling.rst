@@ -320,7 +320,7 @@ Notice that without the declarative error handling, the Ansible playbook would h
 
 .. figure:: error.png
 
-The work you have been saved is that you don't need to clean the config at the BIG-IP. 
+The work effort you have been saved from doing is that you don't need to clean the config on the BIG-IP. 
 This declarative ``bigip-error-handling.yml`` Ansible playbook has this done for you.
 
 Check the BIG-IP by login to the GUI and check the Local Traffic configuration.
